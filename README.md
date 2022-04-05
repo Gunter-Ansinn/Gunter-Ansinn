@@ -14,11 +14,7 @@
   - C#
   - python
   - JavaScript
-  - C/C++
 
-
-- Contact info 
-  - gmail: 🙉 (not putting contact info in a public repo :) )
 
 <!---
 Gunter-Ansinn/Gunter-Ansinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
