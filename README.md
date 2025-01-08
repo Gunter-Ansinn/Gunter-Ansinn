@@ -13,9 +13,9 @@ My current project is building a performant game engine within java with as many
   - Java
 
 - Can program in
- - Javascript
- - Kotlin
- - C#
+  - Javascript
+  - Kotlin
+  - C#
 
 
 <!---
